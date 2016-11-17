@@ -2,7 +2,7 @@
 
 int main(int argc, char* argv[])
 {
-	printf ("Hello, Java!!\n");
+	printf ("Hello, Python!!\n");
 
 	return 0;
 }
